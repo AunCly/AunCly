@@ -16,7 +16,7 @@ Je travaille depuis maintenant 6 ans à la conception et à la maintenance de si
 -----------
 ## Formations
 **Licence professionnelle conception multimédia**  
-*Gestion de projet Multimédia*  
+*Option gestion de projet Multimédia*  
 IUT de d'Anglet (64)
 
 **DUT Services et réseaux de communication**  

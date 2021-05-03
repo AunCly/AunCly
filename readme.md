@@ -17,15 +17,15 @@ Je travaille depuis maintenant 6 ans à la conception et à la maintenance de si
 ## Formations
 **Licence professionnelle conception multimédia**  
 *Option gestion de projet Multimédia*  
-IUT de d'Anglet (64)
+IUT de Bayonne et du pays basque - Anglet (64)
 
 **DUT Services et réseaux de communication**  
 *Option Informatique avancée*  
-IUT Paul Sabatier de Tarbes (65)
+IUT Paul Sabatier Toulouse III - Tarbes (65)
 
 **Baccalauréat Scientifique**  
 *Option Physique Chimie*  
-Lycée Michelet (65)
+Lycée Michelet - Lannemezan (65)
 
 -----------
 ## Expériences professionnelles

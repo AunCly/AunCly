@@ -1,17 +1,17 @@
-![Pyrenees](https://images.unsplash.com/photo-1554097092-bc5ad8df0f2d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1953&q=80)
+![Montagne](./images/mountain.jpg)
 ## En bref
 
 Hello,
 
-Je suis **Aurélien Clugery** (*AunCly*) développeur web d'origine pyrénéenne vivant à La Rochelle (17).
+Je suis **Aurélien Clugery** (*AunCly*), développeur web et mobile d'origine pyrénéenne vivant à La Rochelle (17).  
 
-J'ai grandi dans la **vallée d'Aure**, dans un petit village non loin de Saint-Lary Soulan. C'est donc au milieu des montagnes que je passe le plus clair de mon enfance et de mon adolescence.  Plus tard les études et le travail m'éloigneront de cette région pour rejoindre le Pays Basque, puis la Bretagne et je finirais par arriver et m'installer à **La Rochelle**.
+J'ai grandi dans la **vallée d'Aure**, dans un petit village près de Saint-Lary Soulan. C'est au milieu des montagnes que j'ai passé la majeure partie de ma vie. Plus tard, mes études et mon travail m'ont mené loin de cette région, d'abord au Pays Basque, puis en Bretagne, avant de finalement m'installer à **La Rochelle**.
 
-Je suis passionné depuis toujours de sciences et d'informatique, et depuis mes études, par la programmation informatique. Lors de mes années lycée, je m'initie au développement à l'aide de langages comme java et python.  
+Depuis toujours passionné de sciences et d'informatique, j'ai développé un intérêt particulier pour la programmation informatique durant mes études.
 
-Puis c'est lors de mes études supérieures que j'approfondis mes connaissances en programmation et que j'apprends les bases de la conception de site web (Réseaux, serveur, IHM, Algorithmie, Base de donnée et Php).  
+Depuis 12 ans, je travaille à la conception et à la maintenance de sites et d'API web, principalement côté Back-End, ce qui ne m'empêche pas de pouvoir intervenir aussi côté Front.  
 
-Je travaille depuis maintenant 6 ans à la conception et à la maintenance de sites ou d'API web, principalement côté Back-End, ce qui ne m'empêche pas de pouvoir intervenir aussi côté Front-End.
+Ces dernières années, j'ai élargi mes compétences en me spécialisant dans le développement d'applications mobiles. Depuis 2 ans, je consacre une grande partie de mon temps à la création d'applications mobiles.
 
 -----------
 ## Formations
@@ -32,9 +32,10 @@ Lycée Michelet - Lannemezan (65)
 **CDI Développeur Web** - *Groupe Rhinos*  
 Aout 2018 à Maintenant - La Rochelle (17)
    * Maintenance et mises à jour de la plateforme Stimbiz
-   * Développements spécifiques et scripts de mises à jours
+   * Développements spécifiques et scripts de mises à jour
    * Développement d'une API pour une application mobile
    * Formateur en interne au framework [Laravel](https://laravel.com/)
+   * Développement et maintenance du socle de développement interne
 
 **CDI Développeur Web** - *Des Images et des Mots*  
 Nov 2015 à Nov 2017 - Redon (35)
@@ -48,15 +49,27 @@ Avril à Septembre 2014 - Quimper (29)
    * Conception de plugin pour Wordpress
    * Maintenance et mises à jour de sites web sous Wordpress
 
+## Projets personnels
+**Eloyot** - *Développement & Design*   
+2023 à Maintenant - La Rochelle (17)  
+Application mobile d'aide au diagnostic et de suivi d'entretien de bateau à destination des plaisanciers.  
+Eloyot est disponible au téléchargement sur le Play Store et sur l'Apple Store.
+[En savoir plus sur Eloyot](https://eloyot.fr)
+
+**Healthier** - *Développement & Design*  
+En cours - La Rochelle (17)  
+Application mobile développée dans le cadre du concours Google Gemini.   
+L'application permet à partir d'une photo d'un menu ou d'une recette de suggérer des plats ou alternatives plus saines.
+
 -----------
 ## Environnement de travail et compétences 
-Environnement de travail : MacOs, Phpstorm, Fork, Slack, Suite Office, Teams  
-Utilisation quotidienne : Php, Sql, Laravel, Git, Bootstrap, Jira  
-Utilisation régulière : Docker, Javascript, Postman  
-Utilisation occasionnelle : Vuejs, Scss, Python, Adobe (Photoshop, Illustrator, XD)
+Environnement de travail : MacOs, Phpstorm, AndroidStudio, Fork, Suite Office, Teams  
+Utilisation quotidienne : Php, Sql, Laravel, Git, Dart, Flutter   
+Utilisation régulière : Docker, Postman, Livewire, Jira, Adobe Illustrator
+Utilisation occasionnelle : Javascript, Vuejs, Tailwindcss, Figma, Python
 
 -----------
 ## Centres d'intêrets 
-:video_game: Jeux vidéos, :climbing: Escalade, :skateboard: Skateboard, :bricks: Lego, :desktop_computer: CodinGame, :telescope: Sciences physiques
+:video_game: Jeux vidéos, :climbing: Escalade, :skateboard: Skateboard, :bricks: Lego, :desktop_computer: [CodinGame](https://www.codingame.com/profile/2ec393cf10ac3e96532667921ad09173984351), :telescope: Sciences physiques
 
 

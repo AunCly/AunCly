@@ -7,11 +7,11 @@ Je suis **Aurélien Clugery** (*AunCly*), développeur web et mobile d'origine p
 
 J'ai grandi dans la **vallée d'Aure**, dans un petit village près de Saint-Lary Soulan. C'est au milieu des montagnes que j'ai passé la majeure partie de ma vie. Plus tard, mes études et mon travail m'ont mené loin de cette région, d'abord au Pays Basque, puis en Bretagne, avant de finalement m'installer à **La Rochelle**.
 
-Depuis toujours passionné de sciences et d'informatique, j'ai développé un intérêt particulier pour la programmation informatique durant mes études.
+Depuis toujours passionné de sciences et d'informatique, j'ai développé un intérêt particulier pour la programmation durant mes études.
 
-Depuis 12 ans, je travaille à la conception et à la maintenance de sites et d'API web, principalement côté Back-End, ce qui ne m'empêche pas de pouvoir intervenir aussi côté Front.  
+Depuis 14 ans, je travaille à la conception et à la maintenance de sites et d'API web, principalement côté Back-End, ce qui ne m'empêche pas de pouvoir intervenir aussi côté Front.  
 
-Ces dernières années, j'ai élargi mes compétences en me spécialisant dans le développement d'applications mobiles. Depuis 2 ans, je consacre une grande partie de mon temps à la création d'applications mobiles.
+Ces dernières années, j'ai élargi mes compétences en me apprenant le développement d'applications mobiles. Depuis 2 ans, je consacre une grande partie de mon temps libre à la création d'applications mobiles.
 
 -----------
 ## Projets personnels
@@ -21,6 +21,14 @@ Application mobile d'aide au diagnostic et de suivi d'entretien de bateau à des
 Eloyot est disponible au téléchargement sur le Play Store et sur l'Apple Store.
 [En savoir plus sur Eloyot](https://eloyot.fr)
 
+**Ludovik** - *Développement & Design*   
+2024 à Maintenant - La Rochelle (17)  
+Application mobile développée dans le cadre du concours Google Gemini.   
+L'application, permet à partir des photos des règles d'un jeu de société de générer un résumé rapide du jeu pour commencer à jouer plus rapidemment.
+Une question à propos des règles en cours de partie ? Poser la question à l'application, elle vous répondra en allant chercher pour vous dans les règles.
+D'autres fonctionnalités sont aussi disponibles, ajouter des jeux à sa collection, enregistrer ses parties jouées, déterminer les score à partir d'une photo du plateau ...
+[En savoir plus sur Ludovik](https://auncly.dev/projects/ludovik)
+
 **Healthier** - *Développement & Design*  
 En cours - La Rochelle (17)  
 Application mobile développée dans le cadre du concours Google Gemini.   
@@ -28,13 +36,17 @@ L'application permet à partir d'une photo d'un menu ou d'une recette de suggér
 
 -----------
 ## Expériences professionnelles
+
+**CDI Lead Développeur** - *Groupe Rhinos*  
+Avril 2023 à Maintenant - La Rochelle (17)
+* Formateur en interne au framework [Laravel](https://laravel.com/)
+* Développement et maintenance du socle de développement interne
+
 **CDI Développeur Web** - *Groupe Rhinos*  
-Aout 2018 à Maintenant - La Rochelle (17)
+Aout 2018 à Avril 2023 - La Rochelle (17)
 * Maintenance et mises à jour de la plateforme Stimbiz
 * Développements spécifiques et scripts de mises à jour
 * Développement d'une API pour une application mobile
-* Formateur en interne au framework [Laravel](https://laravel.com/)
-* Développement et maintenance du socle de développement interne
 
 **CDI Développeur Web** - *Des Images et des Mots*  
 Nov 2015 à Nov 2017 - Redon (35)
@@ -65,12 +77,12 @@ Lycée Michelet - Lannemezan (65)
 -----------
 ## Environnement de travail et compétences 
 Environnement de travail : MacOs, Phpstorm, AndroidStudio, Fork, Suite Office, Teams  
-Utilisation quotidienne : Php, Sql, Laravel, Git, Dart, Flutter   
-Utilisation régulière : Docker, Postman, Livewire, Jira, Adobe Illustrator  
+Utilisation quotidienne : Php, Sql, Laravel, Git, Dart, Flutter, Postman
+Utilisation régulière : Docker, Livewire, Jira, Adobe Illustrator  
 Utilisation occasionnelle : Javascript, Vuejs, Tailwindcss, Figma, Python
 
 -----------
 ## Centres d'intêrets 
-:video_game: Jeux vidéos, :climbing: Escalade, :skateboard: Skateboard, :bricks: Lego, :desktop_computer: [CodinGame](https://www.codingame.com/profile/2ec393cf10ac3e96532667921ad09173984351), :telescope: Sciences physiques
+:video_game: Jeux vidéos, :climbing: Escalade, :skateboard: Skateboard, :bricks: Lego, :desktop_computer: [CodinGame](https://www.codingame.com/profile/2ec393cf10ac3e96532667921ad09173984351), :telescope: Sciences physiques, :cake: Pâtisserie et cuisine
 
 

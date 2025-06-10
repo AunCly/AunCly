@@ -11,7 +11,7 @@ Depuis toujours passionné de sciences et d'informatique, j'ai développé un in
 
 Depuis 14 ans, je travaille à la conception et à la maintenance de sites et d'API web, principalement côté Back-End, ce qui ne m'empêche pas de pouvoir intervenir aussi côté Front.  
 
-Ces dernières années, j'ai élargi mes compétences en me apprenant le développement d'applications mobiles. Depuis 2 ans, je consacre une grande partie de mon temps libre à la création d'applications mobiles.
+Ces dernières années, j'ai élargi mes compétences en apprenant le développement d'applications mobiles. Depuis 2 ans, je consacre une grande partie de mon temps libre à la création d'applications mobiles.
 
 -----------
 ## Projets personnels
